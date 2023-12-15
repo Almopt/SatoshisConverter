@@ -1,7 +1,5 @@
 # Satoshis Converter
 
-This was made to apply to ZTM Academy Course Challenge nº44. 
+![Satoshis-Converter](./images/SCR-20231215-mtbj.png)
 
-### Screenshot
-
-![QR-Code-Challenge-Solution](./images/SCR-20231215-mtbj.png)
+This was made to submit to ZTM Academy Course Challenge nº44. 
